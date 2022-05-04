@@ -1,0 +1,9 @@
+tensorflow-cpu
+matplotlib
+numpy
+pillow
+opencv-python
+jupyterlab
+flask
+flask-cors
+waitress
